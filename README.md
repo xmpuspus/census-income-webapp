@@ -1,7 +1,7 @@
 # Census Income Web Application  
 Author: Xavier M. Puspus  
 
-# Deployed Application  
+### Deployed Application  
 Here's a [link](https://census-income-predictor.herokuapp.com/) to the web application hosted in Heroku.
 
 ### Description
