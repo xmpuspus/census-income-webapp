@@ -34,4 +34,4 @@ foo@bar:~$ streamlit run app.py
 
 The web app should look something like this:
 
-![Sample image of the insurance pricing model web application.](pricing_webapp_image.png)
+![Sample image of the census income predictor web application.](census_income_webapp_image.png)
