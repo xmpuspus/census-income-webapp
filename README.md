@@ -1,6 +1,8 @@
-# Census Income Web Application
-Author: Xavier M. Puspus
+# Census Income Web Application  
+Author: Xavier M. Puspus  
 
+# Deployed Application  
+Here's a [link](https://census-income-predictor.herokuapp.com/) to the web application hosted in Heroku.
 
 ### Description
 I used a sample dataset on census income brackets and built a simple web application with a machine learning backend to see live predictions on income bracket based on changes in input data.
